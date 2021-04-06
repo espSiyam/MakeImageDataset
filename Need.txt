@@ -1,0 +1,11 @@
+garbagevan *
+policecar 
+army vehicle
+minibus
+wheelbarrow
+scooter
+ambulance
+human hauler *
+auto rickshaw
+van
+suv *
